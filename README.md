@@ -1,2 +1,7 @@
 # VK-PHP
-Скрипты 
+
+## Information
+Скрипты автоматизации действий
+## Information
+
+### Base functionality
